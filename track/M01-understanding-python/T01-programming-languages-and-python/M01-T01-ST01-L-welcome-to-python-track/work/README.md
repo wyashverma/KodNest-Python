@@ -2,7 +2,7 @@
 
 ## My Name
 
-Write your name.
+Mohit Kumar
 
 ## What I Learned in Foundation Month
 
